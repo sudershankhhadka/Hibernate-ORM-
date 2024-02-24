@@ -8,9 +8,9 @@ import org.hibernate.cfg.Configuration;
 
 public class MappingTest {
 	public static void main(String[] args) {
-	//oneToOne();
+	oneToOne();
 
-	OneToMany();
+//	OneToMany();
 }
 	
 	//one to one
