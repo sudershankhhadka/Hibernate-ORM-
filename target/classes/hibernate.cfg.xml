@@ -17,5 +17,6 @@
         <mapping class="com.model.Address" />
         <mapping class="com.model.Employee" />
         <mapping class="com.model.Phone" />
+        <mapping class="com.model.Department" />
     </session-factory>
 </hibernate-configuration>
